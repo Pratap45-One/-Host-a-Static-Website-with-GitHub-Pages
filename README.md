@@ -1,4 +1,4 @@
-# Task 6 – Host a Static Website with GitHub Pages
+ Host a Static Website with GitHub Pages
 
 ## 📌 Objective
 Deploy a simple static website using **GitHub Pages** as part of the DevOps Internship.
@@ -29,7 +29,8 @@ task6-static-website/
 ## 🌐 Live Website
 🔗 [[Click here to view the site](https://<your-username>.github.io/task6-static-website/) ](https://pratap45-one.github.io/-Host-a-Static-Website-with-GitHub-Pages/) 
 
-(Replace `<your-username>` with your GitHub username)  
+
+<img width="1919" height="698" alt="Screenshot 2025-09-30 224545" src="https://github.com/user-attachments/assets/42420707-ebfb-4b73-8b6f-7f397a8fb2ff" />
 
 ---
 
